@@ -20,7 +20,7 @@ Puoi accedere all'applicazione live qui:
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Hosting:** [Vercel]
 - **Versionamento:** [GitHub](https://github.com/)
-- 
+  
 ## 🚀 Come usarla
 L'applicazione è pronta all'uso. Puoi accedere alla versione live direttamente tramite il link del progetto.
 
